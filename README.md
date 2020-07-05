@@ -1,2 +1,2 @@
-# Graph_Algorithms
+# Graph Algorithms
 This project contains all Algorithms Related to Graphs
